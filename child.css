@@ -1,0 +1,115 @@
+#navBar {
+
+    background-color: #FEEEEE;
+    padding: 0 7rem;
+    
+
+}
+
+.navbar-brand {
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Ubuntu', sans-serif;
+    color: #5D323F;
+}
+   
+.nav-item{
+    margin: 0 20px;
+}
+.navbar .nav-link {
+    color: #5D323F;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+}
+hr {
+    border-top: 1px solid #572F3F;
+    padding: 0;
+    margin: 0;
+    opacity: 0.4;
+}
+/* home style  */
+#home {
+    background-color: #FEEEEE;
+    padding: 7rem 7rem; 
+}
+.home-text {
+    color: #572F3F;
+
+}
+.home-text h1 {
+    font-size: 3.5rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+.home-text p {
+    font-size: 20px;
+    font-family: 'Playfair Display', serif;
+    line-height: 1.8;
+    margin: 20px 0 ;
+
+
+}
+
+.home-img img {
+    width:90%;
+    margin-left: 20px;
+}
+/* about us syle  */
+#about-us {
+    padding: 7rem 4rem; 
+    text-align: center;
+}
+#about-us h2 {
+    font-size: 3rem;
+   
+}
+#about-us p {
+    font-size: 18px;
+    font-family: 'Playfair Display', serif;
+    line-height: 1.5;
+    margin: 20px 0 ;
+}
+#about-us i {
+    color: #572F3F;
+    margin: 10px 0 ;
+}
+#about-us i:hover {
+    color: #8d5068;
+    cursor: pointer;
+}
+
+/* our work  */
+#our-work {
+    padding: 7rem 7rem; 
+    background-color: #FEEEEE;
+}
+#our-work h2{
+
+    font-size: 3rem;
+    color: #572F3F;
+
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+
+    margin-bottom: 20px;
+    font-weight: bold;
+
+}
+#our-work img {
+    width: 1200px;
+    height: 500px;
+}
+/* contact style  */
+#contact {
+    padding: 7rem 7rem;
+    text-align: center;
+    
+} 
+.s-media i {
+    margin: 0 20px;
+}
+.s-media i:hover {
+    color: #572F3F;
+    cursor: pointer;
+}
