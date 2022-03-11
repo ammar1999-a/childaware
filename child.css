@@ -113,3 +113,46 @@ hr {
     color: #572F3F;
     cursor: pointer;
 }
+/* media query  */
+
+@media (max-width:630px) {
+    /* brand query  */
+    .navbar-brand  {
+        font-size: 20px;
+    }
+    .navbar .nav-link {
+        font-size: 16px;
+    }
+    /* home qurey  */
+    .home-text p {
+        font-size: 14px;
+    }
+   .home-text h1 {
+        font-size: 18px !important;
+       
+    }
+
+    /* abut us query  */
+    #about-us i {
+        font-size: 18px;
+    }
+    #about-us h2 {
+        font-size: 18px;
+    }
+    #about-us p {
+        font-size: 14px;
+    }
+    /* our work query  */
+    #our-work h2 {
+        font-size: 18px;
+    }
+    
+#our-work img  {
+    width: 100%;
+    height: 100%;
+}
+ /* s-media query  */
+ .s-media i {
+     font-size: 18px;
+ }
+}
