@@ -116,14 +116,26 @@ hr {
 /* media query  */
 
 @media (max-width:630px) {
+    /* nav bar query  */
+    #navBar {
+
+        background-color: #FEEEEE;
+        padding: 0 3rem;
+        
+    
+    }
     /* brand query  */
     .navbar-brand  {
-        font-size: 23px;
+        font-size: 21px;
     }
     .navbar .nav-link {
         font-size: 18px;
     }
     /* home qurey  */
+    #home {
+        background-color: #FEEEEE;
+        padding: 7rem 3rem; 
+    }
     .home-text p {
         font-size: 18px;
     }
@@ -131,8 +143,15 @@ hr {
         font-size: 20px !important;
        
     }
+    .home-img img {
+        width:100% 
+    }
 
     /* abut us query  */
+    #about-us {
+        padding: 7rem 3rem; 
+        text-align: center;
+    }
     #about-us i {
         font-size: 18px;
     }
