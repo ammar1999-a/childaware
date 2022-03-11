@@ -118,17 +118,17 @@ hr {
 @media (max-width:630px) {
     /* brand query  */
     .navbar-brand  {
-        font-size: 20px;
+        font-size: 23px;
     }
     .navbar .nav-link {
-        font-size: 16px;
+        font-size: 18px;
     }
     /* home qurey  */
     .home-text p {
-        font-size: 14px;
+        font-size: 18px;
     }
    .home-text h1 {
-        font-size: 18px !important;
+        font-size: 20px !important;
        
     }
 
@@ -137,14 +137,14 @@ hr {
         font-size: 18px;
     }
     #about-us h2 {
-        font-size: 18px;
+        font-size: 20px;
     }
     #about-us p {
-        font-size: 14px;
+        font-size: 18px;
     }
     /* our work query  */
     #our-work h2 {
-        font-size: 18px;
+        font-size: 20px;
     }
     
 #our-work img  {
