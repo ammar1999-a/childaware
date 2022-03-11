@@ -140,7 +140,7 @@ hr {
         font-size: 18px;
     }
    .home-text h1 {
-        font-size: 20px !important;
+        font-size: 22px !important;
        
     }
     .home-img img {
@@ -153,10 +153,10 @@ hr {
         text-align: center;
     }
     #about-us i {
-        font-size: 18px;
+        font-size: 22px;
     }
     #about-us h2 {
-        font-size: 20px;
+        font-size: 22px;
     }
     #about-us p {
         font-size: 18px;
@@ -171,6 +171,11 @@ hr {
     height: 100%;
 }
  /* s-media query  */
+ #contact {
+    padding: 7rem 3rem;
+    text-align: center;
+    
+}
  .s-media i {
      font-size: 18px;
  }
